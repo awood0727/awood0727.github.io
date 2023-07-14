@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2023-07-11
+title: 2023-07-14 Project Evaluation
 ---
 
 Right now the biggest challenge I want to solve the expensive cost of of photo editing software. I've founde some software that you have access to by buying a specific camera brand. That's what I'm doing now fortunately, but I think that all companies should provide quality photo editing software with their cameras. I think that's more practical, but when I accomplish it I'm definitely going to tell my mom about it. She'd be very happy to see me merging my passions that way.
