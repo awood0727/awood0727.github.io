@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2023-07-05
+title: 2023-07-05 - My First Post
 ---
 
 ![Emily The Gopher]({{ site.baseurl }}/images/EGopher2.JPG)
