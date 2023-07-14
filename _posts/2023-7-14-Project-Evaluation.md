@@ -2,7 +2,7 @@
 layout: post
 title: 2023-07-14 - Project Evaluation
 ---
-![ossfmascot]({{ site.baseurl }}/images/openssf_security)
+![ossfmascot]({{ site.baseurl }}/images/openssf_security.png)
 
 
 
