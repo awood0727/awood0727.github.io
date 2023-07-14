@@ -3,9 +3,7 @@ layout: post
 title: 2023-07-05 - My First Post
 ---
 
-![Emily The Gopher]({{ site.baseurl }}/images/EGopher2.JPG)
 <img src="/images/EGopher2.JPG" width="50%"/>
-
 
 Hey Everyone! I'm Silas Morgan. This will be my first blog for OSRE Catalyst. I'm a Junior [computer science](https://www.nsu.edu/cs/bs-computer-science) student at Norfolk State University. I'm also from Northern Virginia. It's been pretty great. I've taken a lot of photos, I just haven't been prioritizing editing them yet. I'm excited about getting around to them once I get my software situated. I've been having issues with my display automatically changing colors, but I think it's good now. My most memorable photo is of a groundhog our group met at a strawberry field. It was surprisingly friendly, and we saw it picking strawberries and dragging them back into its hole. I have the photo above.
 
