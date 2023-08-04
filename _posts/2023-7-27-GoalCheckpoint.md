@@ -3,6 +3,7 @@ layout: post
 title: 2023-07-14 - Project Evaluation
 ---
 
+<img src="/images/MergedPR.png" width="25%"/>
 
 So far with p5.js I’ve done two commits. I fixed some typos I found in documents and was able to open two issues and close them both with my pull requests to the main repository.I’ve been added to the contributor list too as a document contributor.
 
