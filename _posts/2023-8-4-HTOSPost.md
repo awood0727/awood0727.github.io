@@ -3,7 +3,7 @@ layout: post
 title: 2023-07-14 - Project Evaluation
 ---
 
-<img src="https://howtoopensource.dev/images/HowToOpenSource_FinalCover.jpg" width=25%/>
+<img src="/images/HTOS.png"/>
 
 The most interesting topic I read from the book was about Nonviolent communication. To me, one of the most frustrating things in the world is dealing with people that are dead set on being unreasonable. People that don’t want to communicate for the sake of progression or sharing ideas, but for what could be malicious reasons. I think practicing NVC could prove to be one of the best ways to vent people and see what kind of person they are based on their reaction. It also ensures that I’m keeping my communication respectful and that it’s more likely to be read and understood in a manner that I intended. I could start to learn more about this by reading one of the two books that were added to the lab library. 
 
