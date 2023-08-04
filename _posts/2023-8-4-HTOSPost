@@ -3,20 +3,10 @@ layout: post
 title: 2023-07-14 - Project Evaluation
 ---
 
-<img src="/images/openssf_security.png" width="25%"/>
+img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.schneems.com%2F2022%2F09%2F26%2Fmy-book-how-to-open-source-launches-today%2F&psig=AOvVaw1HI_4qHeBfcI7jL5ih2fCe&ust=1691219793457000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJCr-um6woADFQAAAAAdAAAAABAE" width="25%"
 
-So far with p5.js I’ve done two commits. I fixed some typos I found in documents and was able to open two issues and close them both with my pull requests to the main repository.I’ve been added to the contributor list too as a document contributor.
+The most interesting topic I read from the book was about Nonviolent communication. To me, one of the most frustrating things in the world is dealing with people that are dead set on being unreasonable. People that don’t want to communicate for the sake of progression or sharing ideas, but for what could be malicious reasons. I think practicing NVC could prove to be one of the best ways to vent people and see what kind of person they are based on their reaction. It also ensures that I’m keeping my communication respectful and that it’s more likely to be read and understood in a manner that I intended. I could start to learn more about this by reading one of the two books that were added to the lab library. 
 
-Since we’ve been working with p5.js I learned a lot about how to successfully and accurately document an Issue. I’ve been providing a lot of screenshots to make it easier for my issues to be understood. I also include appropriate screenshots in my pull request to showcase the changes. 
+When it comes to acting like people can always see your code, I think it is a tactic that increases readability, and technical correctness. To me it’s a tactic that could potentially ensure you’re always following the code guidelines of whatever community you’re working with. It also could ensure you’re documenting the code as it should be documented, and that it’s being written correctly from the beginning as opposed to you having to go back and change a lot of things to get a proper pr. I feel as if this is already something I’ve been doing. I write code with comments and understandable function names so that whoever ends up reading it or using it can understand it without relying on me as much. I do things like give function descriptions or use easy to understand function names for that reason.
 
-Within the next two weeks I really want to be able to make a code contribution. I would like to learn more about p5.js and how to understand the javascript they used to build their library. 
-
-
-When reflecting on my previous post and the goals I set there, I definitely have improved my writing capabilities. I work really well to document information, changes, and issues I’ve encountered.
-I also have been doing very well to help others troubleshoot issues they’ve encountered. 
-
-To keep building on this progress I think I can just keep moving forward and working on more complicated issues.
-As we go further into contributing I think the problems will only get harder, so building and utilizing my comprehension skills.
-This will better help me understand what I’m interacting with and with that I’ll get better at documenting and explaining to others
-
-Emily has really been a great support person so far. I think to move forward, just having her there to answer questions or if she’s new to something too, point us in the right direction will greatly help.
+I don’t think this has always aligned with my perception of working in the industry. When I would first picture a software engineer, I would think it was someone who knew everything that everyone else didn’t. I thought they knew how to solve every problem or create software efficiently for every scenario. Upon my first major steps into developing software that perception changed for me. I started viewing a software engineer as someone who could figure out whatever they needed to figure out to create their desired software. That's what I did for my most recent major project, and that really helped me become confident that with enough dedication I could complete any project I needed to. With the Catalyst project just seeing how many times people who have found their place in the industry simply reply “I don’t know” to my questions was really shocking. The idea of these human encyclopedias has started to morph into a vision of people who just knew where to go for info or where to start when solving a problem which seems much more realistic and feasible to me now.
