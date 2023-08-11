@@ -3,7 +3,7 @@ layout: post
 title: 2023-07-14 - Project Evaluation
 ---
 
-<img src="/images/TempPic1.JPG" width="25%"/>
+<img src="/images/TempPic1.JPG" width="50%"/>
 
 My previous goal was to get better at writing, and contribute some code to an open source project. I’m proud that I was able to improve on my technical writing skills, and improve my ability to convey my thoughts using supporting documents. What really got me to make progress on this was just researching problems, and detailing what the problem was, how I solved it, and adding evidence to my pull requests. I didn’t write any papers during this experience however. I think I’ll ask one of my mentors or someone at NSU’s writing center to assign me a topic to write about for accountability. 
 
