@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2023-07-17 Large Project Evaluation
+title: 2023-07-17 Large Project Evaluation(p5.js)
 ---
 
 <img src="/images/p5js.svg" width="25%"/>
