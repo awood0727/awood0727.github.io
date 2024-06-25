@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2023-07-14 - Project Evaluation
+title: 2023-7-27-Goal Checkpoint
 ---
 
 <img src="/images/MergedPR.png" width="100%" />
