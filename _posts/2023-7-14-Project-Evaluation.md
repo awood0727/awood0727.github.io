@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2023-07-14 - Project Evaluation
+title: 2023-07-14 - Openssf Scorecard Evaluation
 ---
 
 <img src="/images/openssf_security.png" width="25%"/>
