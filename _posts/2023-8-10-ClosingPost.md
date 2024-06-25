@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2023-8-10-Closing Post
+title: 2023-8-10 - Closing Post
 ---
 
 <img src="/images/TempPic1.JPG" width="50%"/>
