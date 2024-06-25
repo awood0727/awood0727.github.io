@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2023-7-27-Goal Checkpoint
+title: 2023-7-27 - Goal Checkpoint
 ---
 
 <img src="/images/MergedPR.png" width="100%" />
