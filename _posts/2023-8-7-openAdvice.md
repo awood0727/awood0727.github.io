@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2023-07-14 - Project Evaluation
+title: 2023-8-7- Open Advice
 ---
 
 For today’s blog I read a chapter from [Open Advice](http://open-advice.org/Open-Advice.pdf). The chapter I chose is Code, and I chose it because of the section titled The Art of Problem Solving. It just sounds intriguing. After reading it I don’t think it was as helpful as I thought it would be. I was thinking it would be more psychology, which it was a little, but I don’t have many big takeaways. I think dividing the issue and asking the right questions are good techniques however. I read that instead of just saying something doesn’t work and pointing out what it’s supposed to be doing vs what it’s actually doing can be very helpful. 
