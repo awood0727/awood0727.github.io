@@ -3,7 +3,7 @@ layout: post
 title: 2024-6-27 - Goal Setting Post 2
 ---
 
-<img src="/images/BirdsOfAFeather.jpg" width="25%"/>
+<!-- <img src="/images/BirdsOfAFeather.jpg" width="25%"/> -->
 
 I'm Silas Morgan, in the fall I'll be entering my senior year as a computer science major at Norfolk State University. This is my second year participating in the Contributor Catalyst program so I actually have a ton of experience working with open source. I'm excited to work on some new projects this year as an Alumni Mentor for this year's cohort.
 
