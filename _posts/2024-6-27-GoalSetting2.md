@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-6-26 - Opening Post
+title: 2024-6-27 - Goal Setting Post 2
 ---
 
 <img src="/images/BirdsOfAFeather.jpg" width="25%"/>
