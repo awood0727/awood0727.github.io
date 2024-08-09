@@ -3,7 +3,7 @@ layout: post
 title: 2023-7-27 - Goal Checkpoint
 ---
 
-<img src="/images/MergedPR.png" width="100%" />
+<img src="/images/MergedPR.png" width="125%" />
 
 So far with p5.js I’ve done two commits. I fixed some typos I found in documents and was able to open two issues and close them both with my pull requests to the main repository.I’ve been added to the contributor list too as a document contributor.
 
