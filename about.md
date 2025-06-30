@@ -14,4 +14,4 @@ Mentor and Turtor for underclassmen in the DNIMAS Program
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[awood0727@gmail.com](mailto:awood0727@gmail.com)
