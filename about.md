@@ -8,7 +8,9 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I was born on July 27, 2005
+I am a Dozoretz National Institute of Mathematics and Applied Sciences (DNIMAS) Scholar attentding Norfolk State University
+Mentor and Turtor for underclassmen in the DNIMAS Program
 
 ### Contact me
 
