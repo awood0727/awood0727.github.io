@@ -3,7 +3,7 @@ layout: 6-30-2025
 title: Goalsetting Blog
 ---
 
-![hkEHYqWUWVj7FBxFPXR6UA-1200-80](https://github.com/user-attachments/assets/dbfc40a1-16fe-42db-9636-3e26509f6f56)
+![1000013174](https://github.com/user-attachments/assets/be411daf-4cc1-470f-ba86-aff1e9cd9a85)
 
 
 Greetings evveryone, my name is Amante' Woodley and I am from Suffolk, Virginia. At the time of writing this, I am a rising junior 
