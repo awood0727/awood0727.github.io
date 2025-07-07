@@ -1,5 +1,5 @@
 ---
-layout: 6-30-2025
+layout: 7-1-2025
 title: Goalsetting Blog
 ---
 ![1000013174](https://github.com/user-attachments/assets/bd2b6244-4697-4211-9d2a-d23f9ffc470a)
