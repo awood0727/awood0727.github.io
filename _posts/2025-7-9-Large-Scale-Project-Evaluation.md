@@ -1,6 +1,6 @@
 ---
 layout: 7-8-2025
-title: Small Scale Project Evaluation
+title: Large Scale Project Evaluation
 ---
 
 The purpose of the p5.js open-source repository is to create a free and
