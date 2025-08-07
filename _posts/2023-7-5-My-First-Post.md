@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-06-30 - My First Post
+title: My First Post
 ---
 
 Okay! Attempt number one.
