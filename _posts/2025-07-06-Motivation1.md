@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Goalsetting
+title: Motivation
 ---
 
 One challenge I would work on is helping connect more people to the internet. According to Forbes.com, about 66% of the world is now
