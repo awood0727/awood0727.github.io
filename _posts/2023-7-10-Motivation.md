@@ -1,12 +1,23 @@
 ---
 layout: post
-title: 2023-07-11 - Motivation
+title: 2025-07-01 - Motivation
 ---
 
-Right now the biggest challenge I want to solve the expensive cost of of photo editing software. I've founde some software that you have access to by buying a specific camera brand. That's what I'm doing now fortunately, but I think that all companies should provide quality photo editing software with their cameras. I think that's more practical, but when I accomplish it I'm definitely going to tell my mom about it. She'd be very happy to see me merging my passions that way.
+<img src="/images/1000013174.jpg" width="25%"/>
 
-I found a softare called darktable. It's a photo editing software made by photographers for photographers. They have a website for it and their github is set up very nicely with a descriptive readme. I've seen they still have a very active community that is still writing out issues and requests. They us a lot of C which I think my group could learn very easily since we've all learned c++. The comments on pull request seem very well put together. I don't see any disrespect, and everyone seems very informed with what the change is and how it will impact the project if accepted. I think they've tested it before commenting. Here's the link so you all can check it out. I'm going to download it and see if I like the software and find it useable first. I think this would be a very motivating project, because if this works out I can use it and change camera brands without worrying about finding and learning to use a new piece of photo editing software.
+Greetings evveryone, my name is Amante' Woodley and I am from Suffolk, Virginia. At the time of writing this, I am a rising junior 
+at Norfolk State University majoring in [Computer Science](https://www.nsu.edu/dnimas/cs-cybersecurity) and foucsing on Cybersecurity. For the summer, I am working with 
+the Contributor Catalyst Program and University of California at Santa Cruz and it has been very enjoyable. This is my 
+first time in Califronia and the only thing that has really taken me for a surprise is the mountainous terrain 
+and the drastic shift in temperatures coming from the 90s of coastal Virgina to the 70s of Santa Cruz.
 
-[Dark Table Github Repo](https://github.com/darktable-org/darktable)
+Focusing back on the topic today which is open source experience I have to say that I do not have any prior open source experiences.
+However, I am very excited to experience everything new that comes with open source coding and taking on any challenge that comes with it.
 
-[Website with install packages](https://www.darktable.org)
+One of the strongest skill I believe that I can bring to the Contributor Catalyst team is problem solving. A lot of times 
+I like to recreate the problem I was dealing with earlier so I can explain to myself and hopefully others as easily as possible when it
+appears again.
+
+One skill I would like to improve on is more communication. I normally like to work alone and only help when others ask me 
+but I would like to adapt to being more proactive and communicating what I'm doing or what I'm planning to do with any 
+project I'm tasked to work on.
