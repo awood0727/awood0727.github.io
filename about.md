@@ -8,8 +8,11 @@ Some information about Me!
 
 ### More Information
 
-Hey Everyone! I recommend you check out my first blog post to learn more about me. This blog is a continuation from a program I joined last year. I'm now a senior computer science major, and this Summer I'm working with UCSC as an alumni mentor/intern for the now Contributor Catalyst program. So far I've been enjoying searching for answers for the new participants and helping them become comfortable in this space and state that's brand new to many of them. Over this Summer I'm looking forward to personal and professional development so I hope we'll both be able to see that when reading through my posts.
+Hey all, this is my first time making an about me section, but allow me to introduce myself.
+- Dozoretz National Institute of Mathematics and Applied Sciences (DNIMAS) Scholar
+- A Junior at Norfolk State University
+- A Math and Computer Science tutor
 
 ### Contact me
 
-[email@domain.com](mailto:victorsmorgan@gmail.com)
+[awood0727@gmail.com](mailto:awood0727@gmail.com)
