@@ -15,7 +15,7 @@ go into depth about what I found, and I documented everything that I believed wa
 could be done to fix the problem. In the future, I believe it would be best to continue making progress in communication with the growth I have made in the 
 Contributor Catalyst program.
 
-Below are all the issues I worked on with my team, which includes: @npNSU, @kaybcodes, and @SilasVM within the Processing umbrella.
+Below are all the issues I worked on with my team, which includes: [@npNSU](https://github.com/npNSU), [@kaybcodes](https://github.com/kaybcodes), and [@SilasVM](https://github.com/SilasVM) within the Processing umbrella.
 | Repository | Issue Number | Brief Summary | Results (as of 8/6/2025) |
 |:---:|:---:|:---:|:---:|
 | Processing4 | [981](https://github.com/processing/processing4/issues/981) | Maintainers wanted to move to a different build system, which was from Ant to Gradle. An earlier contributor worked on their request, but it was not liked. We researched and created a way to ease their transition to Gradle. | Accepted by maintainer, awaiting merge |
