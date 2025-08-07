@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-07-01 - Goalsetting
+title: Goalsetting
 ---
 
 <img src="/images/1000013174.jpg" width="50%"/>
