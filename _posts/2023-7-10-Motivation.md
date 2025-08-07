@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 2025-07-01 - Motivation
+title: 2025-07-01 - Goalsetting
 ---
 
-<img src="/images/1000013174.jpg" width="25%"/>
+<img src="/images/1000013174.jpg" width="50%"/>
 
-Greetings evveryone, my name is Amante' Woodley and I am from Suffolk, Virginia. At the time of writing this, I am a rising junior 
+Greetings everyone, my name is Amante' Woodley and I am from Suffolk, Virginia. At the time of writing this, I am a rising junior 
 at Norfolk State University majoring in [Computer Science](https://www.nsu.edu/dnimas/cs-cybersecurity) and foucsing on Cybersecurity. For the summer, I am working with 
 the Contributor Catalyst Program and University of California at Santa Cruz and it has been very enjoyable. This is my 
 first time in Califronia and the only thing that has really taken me for a surprise is the mountainous terrain 
