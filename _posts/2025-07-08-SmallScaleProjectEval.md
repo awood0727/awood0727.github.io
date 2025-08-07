@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Goalsetting
+title: Small Scale Project Evaluation
 ---
 
 The purpose of the Open Source Security Foundation Scorecard
